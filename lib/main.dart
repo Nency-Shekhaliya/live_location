@@ -43,7 +43,7 @@ class _Live_locationState extends State<Live_location> {
       home: Builder(builder: (context) {
         return Scaffold(
           appBar: AppBar(
-            title: Text("Live Location"),
+            title: Text("Live Location1"),
             centerTitle: true,
           ),
           body: Center(
